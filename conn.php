@@ -1,5 +1,4 @@
 <?php
-
 $srv = '127.0.0.1';
 $usr = 'root';
 $pas = 'root';
